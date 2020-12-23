@@ -59,7 +59,7 @@ var quizQuestions = [{
 
 var finalQuestionIndex = quizQuestions.length;
 var currentQuestionIndex = 0;
-var timeLeft = 76;
+var timeLeft = 25;
 var timerInterval;
 var score = 0;
 var correct;
