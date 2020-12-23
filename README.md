@@ -12,4 +12,4 @@ Technologies used:
 * CSS
 * JavaScript
 
-Link to quiz
+[Link to quiz](https://maeganwyrzykowski.github.io/Coding_Quiz/)
